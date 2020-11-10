@@ -10,7 +10,7 @@ Please feel free to improve upon these functions or propose them.
 
 <details> 
   <summary>Side Note about this repository</summary>
-   This is **not** a library, please do not try to look for this on your package manager since it doesn't exist there.
+   This is NOT a library, please do not try to look for this on your package manager since it doesn't exist there.
 </details>
 
 ## Documentation

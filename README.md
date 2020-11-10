@@ -8,9 +8,10 @@ Please feel free to improve upon these functions or propose them.
 2. Cryptography with Number Theory functions.
 3. Useful for finding certain answers from sets of data.  
 
-
-Side Note:  
->! You're probably better off using these for your Number Theory needs.
+<details> 
+  <summary>Side Note about this repository</summary>
+   This is **not** a library, please do not try to look for this on your package manager since it doesn't exist there.
+</details>
 
 ## Documentation
 As a general overview, these functions primarily serve to be snippets which people can refer to.  

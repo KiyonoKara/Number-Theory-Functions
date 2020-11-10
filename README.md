@@ -56,4 +56,4 @@ eu = euclideanAlgorithm2(20, 30)
 Pull requests are welcome. For bugs and/or flaws in the functions, please open an issue.
 
 ## License
-[]()
+[MIT](LICENSE.md)
